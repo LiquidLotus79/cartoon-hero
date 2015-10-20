@@ -17,6 +17,9 @@ h1{
 	margin: 15px;
 
 }
+h2{
+	font-size: 40px;
+}
 header img{
 	border-radius: 150px;
     border: 10px solid #F7F3F2;
@@ -27,7 +30,13 @@ header img{
 	max-width: 100%;
 	margin: 0 auto;
 	background-color: #ADADAD;
-	padding: 0 40px;
+	padding: 15px 40px;
+}
+.content-header{
+	background-color: white;
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 5px 40px;
 }
 img.big-image{
 	max-width: 100%
@@ -42,7 +51,7 @@ p.caption{
 
 ul{
 	list-style: none;
-	padding: 0;
+	padding: 0 0 25px;
 	margin: 0;
 }
 a{
@@ -60,7 +69,7 @@ footer ul{
 }
 footer ul li{
 	display: inline-block;
-	margin: 0 5px;
+	margin: 0 10px;
 }
 /*<header>
 		<img src="img/profile.jpg">
