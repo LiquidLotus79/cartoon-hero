@@ -1,0 +1,68 @@
+html, body{
+
+	font-family: 'Poiret One', cursive;
+	margin: 0;
+	font-size: 21px;
+}
+header{
+
+	background-color: #F5341B;
+	padding: 20px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+	margin: 15px;
+
+}
+header img{
+	border-radius: 150px;
+    border: 10px solid #F7F3F2;
+    width: 250px;
+    height: 250px;
+}
+.content{
+	max-width: 100%;
+	margin: 0 auto;
+	background-color: #ADADAD;
+	padding: 0 40px;
+}
+img.big-image{
+	max-width: 100%
+}
+
+p.caption{
+	font-size: 20px;
+	color: #F5341B;
+	font-style: itlaic;
+	margin: 0;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #F5341B;
+	color: white;
+	font-size: 20px;
+}
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>Liquid Lotus</h1>
+	</header>
